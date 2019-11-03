@@ -1,0 +1,7 @@
+﻿body {background-color: #FFFAFA; color: #fff;}
+a {color: #008000;}
+a:visited {color: #00ff00;}
+.home {background: #000;}
+#picture {border: 1px dotted black;
+    border-bottom-color: red; 
+    border-left-width: 2mm;}
